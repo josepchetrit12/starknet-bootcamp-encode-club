@@ -1,5 +1,7 @@
 # Homework 1
 ## Use cases
+1. In your teams, think of some use cases of zero knowledge proofs What problems are there when using zkps in real world situations, such as providing an identity application for use in airports.
+
 
 ## Maths Introduction
 1. Working with the following set of Integers S = {0,1,2,3,4,5,6,7,8}. What is?
